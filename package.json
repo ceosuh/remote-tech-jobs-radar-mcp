@@ -1,0 +1,14 @@
+{
+  "name": "remote-tech-jobs-radar-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for real-time remote tech, AI, and Y Combinator startup job postings across Remotive, Arbeitnow, and HackerNews.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "remote-tech-jobs-radar-mcp": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
